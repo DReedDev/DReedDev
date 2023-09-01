@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Daniel Reed</h1>
 <h3 align="center">A frontend developer from San Jose, CA</h3>
-<h4 align="center">Hi my name is Daniel Reed a web developer based out of Silicon Valley. I've worked on web development for more than 10+ years. I have a successful youtube channel with over 80,000 subscribers who love the content I create about web development and over 50,000 students world wide in multiple platforms. My goal is to get all my students and subscribers to a level of being hired as a developer as soon as possible. </h4>
+<h4 align="center">Hi my name is Daniel Reed a web developer based out of Silicon Valley. I've worked on web development for more than 10+ years. My employer bought Infusionsoft in 2006 and put me in charge of it. I then learned web development to do more than possible with Infusionsoft out of the box. Later adding new features to pages and Google Analytics as they were deemed necessary. </h4>
 
 <hr>
 
