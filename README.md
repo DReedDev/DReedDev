@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <!-- <img src="https://raw.githubusercontent.com/DReedDev/DReedDev/blob/main/My-Github-Banner.png" width="100%"/> -->
+  <!-- <img src="https://github.com/DReedDev/DReedDev/blob/main/My-Github-Banner.png" width="100%"/> --> 
 </div>
 <h1 align="center">Hi 👋, I'm Daniel Reed</h1>
 <h3 align="center">A frontend and HTML Email developer from San Jose, CA</h3>
