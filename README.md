@@ -42,7 +42,7 @@
 			<td width="50%">
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
-					<a href='https://codingphase.com' target="_blank">
+					<a href='https://stumpking.com/m/index.html' target="_blank">
 						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 1" height="100%" />
 					</a>
 					<br>
@@ -55,9 +55,9 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
+					<p><strong>HTML & CSS</strong></p>
           <p>
-						Description goes here
+						Created a mobile site for Stump King, a local tree stump removal company, following their existing design.
 					</p>
 				</div>
 			</td>
